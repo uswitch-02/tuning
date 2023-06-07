@@ -1,0 +1,2 @@
+class Repot < ApplicationRecord
+end
