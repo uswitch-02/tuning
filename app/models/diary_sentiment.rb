@@ -1,2 +1,0 @@
-class DiarySentiment < ApplicationRecord
-end
